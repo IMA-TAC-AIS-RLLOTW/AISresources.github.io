@@ -22,10 +22,9 @@ author: International Multi Agency - Technical Advisory Committee - AIS Working 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+    - Invasive Species Centre (Canada): "https://www.invasivespeciescentre.ca/"
+    - Ontario Invading Species Awareness Program: "https://www.invadingspecies.com"
+    - Invasive Species Centre (Minnesota): "https://www.invasivespeciesinfo.gov/us/minnesota"
 ################
 # --- Logo --- #
 ################
