@@ -22,6 +22,7 @@ author: International Multi Agency - Technical Advisory Committee - AIS Working 
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - Early Detection and Distribution Mapping System (EDDMapS): "https://www.eddmaps.org/"
     - Invasive Species Centre (Canada): "https://www.invasivespeciescentre.ca/"
     - Ontario Invading Species Awareness Program: "https://www.invadingspecies.com"
     - Invasive Species Centre (Minnesota): "https://www.invasivespeciesinfo.gov/us/minnesota"
