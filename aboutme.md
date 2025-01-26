@@ -5,7 +5,5 @@ subtitle:
 ---
 
 placeholder for text 
-
-### Organizations 
-
+![A map of the Rainy-Lake of the Woods Watershed](Rainy-Lake-of-the-Woods-basin.png)
 
