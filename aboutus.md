@@ -5,5 +5,7 @@ subtitle:
 ---
 
 placeholder for text 
-![A map of the Rainy-Lake of the Woods Watershed]("Rainy-Lake-of-the-Woods-basin.png")
+
+[A map of the Rainy-Lake of the Woods Watershed](Rainy-Lake-of-the-Woods-basin.png)
+
 
