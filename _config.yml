@@ -161,7 +161,7 @@ page-img: "water.jpg"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
-#  - "/assets/css/custom-styles.css"
+  - "/assets/css/beautifuljekyll.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
@@ -188,10 +188,6 @@ page-img: "water.jpg"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
 
-# Google Universal Analytics ID -- deprecated
-# As of July 2023 this is no longer supported by Google! If you are still using `google_analytics`,
-# you should switch to using the `gtag` field above instead.
-#google_analytics: "UA-XXXXXXXX-X"
 
 ####################
 # --- Comments --- #
